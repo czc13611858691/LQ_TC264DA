@@ -10,3 +10,6 @@ https://item.taobao.com/item.htm?spm=a1z09.2.0.0.38b92e8dGXdUxB&id=614068045068&
 Docs------------------文档
 Src-------------------代码开发工程
 ReferenceMaterial-----从外部收集的资料
+
+开发调试环境使用ADS
+烧录hex使用Infineon-Memtool-DevelopmentTools-v04_81-EN.exe工具
